@@ -19,7 +19,7 @@ Passionate about cybersecurity and security operations, I'm actively building my
 
 ## 🔹 Projects  
 
-- **[Azure Honeypot Deployment & Attack Visualization](#)** – Brief description of what it does  
+- **[Azure Honeypot Deployment & Attack Visualization](#)** – This lab demonstrates the creation of a simplified SOC using Azure services, including an Azure-deployed honeypot, to capture and analyze attack origins. 
 
 ---
 
