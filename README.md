@@ -19,7 +19,9 @@ Passionate about cybersecurity and security operations, I'm actively building my
 
 ## 🔹Security Projects  
 
-- **[Azure Honeypot Deployment & Attack Visualization](https://github.com/DGSecures/Cloud-HoneyPot/)** – This lab demonstrates the creation of a simplified SOC using Azure services, including an Azure-deployed honeypot, to capture and analyze attack origins. 
+- **[Azure Honeypot Deployment & Attack Visualization](https://github.com/DGSecures/Cloud-HoneyPot/)** – This lab demonstrates the creation of a simplified SOC using Azure services, including an Azure-deployed honeypot, to capture and analyze attack origins.
+
+## 🔹System Administration Projects  
 
 ---
 
