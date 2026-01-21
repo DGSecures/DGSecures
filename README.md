@@ -21,7 +21,9 @@ Passionate about cybersecurity and security operations, I'm actively building my
 
 - **[Azure Honeypot Deployment & Attack Visualization](https://github.com/DGSecures/Cloud-HoneyPot/)** – This lab demonstrates the creation of a simplified SOC using Azure services, including an Azure-deployed honeypot, to capture and analyze attack origins.
 
-## 🔹System Administration Projects  
+## 🔹System Administration Projects
+
+- **[Active Directory Administration](https://github.com/DGSecures/Active-Directory)** - This lab demonstrates a Windows Server homelab that simulates a small enterprise domain with OUs, users/groups, and domain joined client machines. 
 
 ---
 
