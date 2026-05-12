@@ -27,7 +27,7 @@ Passionate about cybersecurity and security operations, I'm actively building my
 - **[Active Directory Administration](https://github.com/DGSecures/Active-Directory)** - This lab demonstrates a Windows Server homelab that simulates a small enterprise domain with OUs, users/groups, and domain joined client machines. 
 
 
-## 🔹Security Labs 
+## 🔹IAM Labs 
 ---
 
 ## 🔹 Certifications
