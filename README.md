@@ -17,15 +17,17 @@ Passionate about cybersecurity and security operations, I'm actively building my
 
 ---
 
-## 🔹Security Projects  
+## 🔹Security Labs 
 
 - **[Azure Honeypot Deployment & Attack Visualization](https://github.com/DGSecures/Cloud-HoneyPot/)** – This lab demonstrates the creation of a simplified SOC using Azure services, including an Azure-deployed honeypot, to capture and analyze attack origins.
 - **[Splunk SIEM Homelab](https://github.com/DGSecures/Splunk-SIEM-Homelab/)** - This lab centralizes Windows Event Logs in Splunk to support hands-on practice with security monitoring, log analysis, and threat hunting exercises.
 
-## 🔹System Administration Projects
+## 🔹System Administration Labs
 
 - **[Active Directory Administration](https://github.com/DGSecures/Active-Directory)** - This lab demonstrates a Windows Server homelab that simulates a small enterprise domain with OUs, users/groups, and domain joined client machines. 
 
+
+## 🔹Security Labs 
 ---
 
 ## 🔹 Certifications
